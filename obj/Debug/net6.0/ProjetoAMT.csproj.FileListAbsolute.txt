@@ -1,0 +1,15 @@
+C:\workspace\ProjetoAMT\bin\Debug\net6.0\ProjetoAMT.exe
+C:\workspace\ProjetoAMT\bin\Debug\net6.0\ProjetoAMT.deps.json
+C:\workspace\ProjetoAMT\bin\Debug\net6.0\ProjetoAMT.runtimeconfig.json
+C:\workspace\ProjetoAMT\bin\Debug\net6.0\ProjetoAMT.dll
+C:\workspace\ProjetoAMT\bin\Debug\net6.0\ProjetoAMT.pdb
+C:\workspace\ProjetoAMT\obj\Debug\net6.0\ProjetoAMT.csproj.AssemblyReference.cache
+C:\workspace\ProjetoAMT\obj\Debug\net6.0\ProjetoAMT.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\ProjetoAMT\obj\Debug\net6.0\ProjetoAMT.AssemblyInfoInputs.cache
+C:\workspace\ProjetoAMT\obj\Debug\net6.0\ProjetoAMT.AssemblyInfo.cs
+C:\workspace\ProjetoAMT\obj\Debug\net6.0\ProjetoAMT.csproj.CoreCompileInputs.cache
+C:\workspace\ProjetoAMT\obj\Debug\net6.0\ProjetoAMT.dll
+C:\workspace\ProjetoAMT\obj\Debug\net6.0\refint\ProjetoAMT.dll
+C:\workspace\ProjetoAMT\obj\Debug\net6.0\ProjetoAMT.pdb
+C:\workspace\ProjetoAMT\obj\Debug\net6.0\ProjetoAMT.genruntimeconfig.cache
+C:\workspace\ProjetoAMT\obj\Debug\net6.0\ref\ProjetoAMT.dll
